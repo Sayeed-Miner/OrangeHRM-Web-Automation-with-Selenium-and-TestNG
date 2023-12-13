@@ -1,0 +1,12 @@
+<suite thread-count="1" verbose="1" name="OrangeHRM Web Automation">
+    <test name="Login to OrangeHRM Portal">
+        <groups>
+            <run>
+                <include name ="smoke"></include>
+            </run>
+        </groups>
+        <classes>
+            <class name="testrunner.LoginTestRunner"/>
+        </classes>
+    </test>
+</suite>

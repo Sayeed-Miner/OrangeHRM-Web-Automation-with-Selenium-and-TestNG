@@ -1,0 +1,17 @@
+<suite thread-count="1" verbose="1" name="OrangeHRM Web Automation">
+    <test name="Login Module Test">
+        <classes>
+            <class name="testrunner.LoginTestRunner"/>
+        </classes>
+    </test>
+    <test name="Employee Module Test">
+        <classes>
+            <class name="testrunner.EmployeeTestRunner"/>
+        </classes>
+    </test>
+    <test name="Employee Search, Login, Update Test">
+        <classes>
+            <class name="testrunner.UserTestRunner"/>
+        </classes>
+    </test>
+</suite>

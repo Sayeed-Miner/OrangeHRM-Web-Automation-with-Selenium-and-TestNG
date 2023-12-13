@@ -46,7 +46,7 @@ https://docs.google.com/spreadsheets/d/1r7cYShYVQzRTk_xF67MyxKT9UG8M-on_Xd9O1__G
 ___
 ## Allure Report Screenshots for Smoke Test Suite:
 ![Allure Report Smoke Suite](https://github.com/Sayeed-Miner/OrangeHRM-Web-Automation-with-Selenium-and-TestNG/assets/52811620/a2b8453b-01c3-4035-890d-bbea0c8579fb)
-![Allure Report Smoke Suite Behaviors](https://github.com/Sayeed-Miner/OrangeHRM-Web-Automation-with-Selenium-and-TestNG/assets/52811620/899202c2-652a-49bf-ae45-4c5c026ba965)
+![Allure Report Smoke Behaviors](https://github.com/Sayeed-Miner/OrangeHRM-Web-Automation-with-Selenium-and-TestNG/assets/52811620/ee1c3a76-ce9a-4f72-9540-38e4db97ef33)
 ___
 ## Automation Output Video:
 https://github.com/Sayeed-Miner/OrangeHRM-Web-Automation-with-Selenium-and-TestNG/assets/52811620/5682673c-3171-4f4c-bcc7-d7c3ec5a02fd
